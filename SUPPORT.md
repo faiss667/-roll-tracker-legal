@@ -2,7 +2,7 @@ Roll Tracker Support
 Last updated: 2026-05-25
 Need help with Roll Tracker? You're in the right place.
 Contact
-The fastest way to reach us is email: debbouze.faycal24@gmail.com
+The fastest way to reach us is email: support.rolltracker@gmail.com
 We aim to reply within 2 business days.
 When reporting a problem, please include:
 Your device (e.g. iPhone 14, iOS 17.4)
@@ -25,7 +25,7 @@ How do I reset my password?
 On the sign-in screen, tap Forgot password. Enter your email and follow
 the link we send you.
 How do I export or delete my data?
-Email debbouze.faycal24@gmail.com with the subject "Data export" or
+Email support.rolltracker@gmail.com with the subject "Data export" or
 "Account deletion". We will action the request within 30 days. See our
 Privacy Policy
 for full details on your rights.
